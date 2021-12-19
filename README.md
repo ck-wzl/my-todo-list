@@ -1,2 +1,4 @@
 # my-todo-list
-## 怎么上传到github pages 啊！
+## 已经部署到github pages
+### 链接：https://div-wuzl.github.io/my-todo-list/
+### 项目源码联系：royalwzl@163.com
